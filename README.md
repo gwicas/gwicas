@@ -22,7 +22,7 @@
 - <b>Times Series Forcasting with Python</b>
 - <b>Data Visualization with Python</b>
 
- <h2>👨‍💻 Certifications:</h2>
+ <h2> Certifications:</h2>
 
 <b>Information Security</b>
  
